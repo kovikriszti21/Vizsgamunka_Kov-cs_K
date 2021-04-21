@@ -1,2 +1,2 @@
-# Vizsgamunka_Kov-cs_K
+# Vizsgamunka_Kovacs_K
 ProPuppies Site HU
